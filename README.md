@@ -7,4 +7,6 @@ Check back soon!
 
 <img src="screenShot.png" alt="Blog Screenshot">
 
+![Blog-Screenshot](https://github.com/Alisonhardison/personal-blog/blob/master/ScreenShot.png)
+
 
